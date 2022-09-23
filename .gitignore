@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+#scrapy
+scrapy/venv/
+
+#puppeteer
+puppeteer/node_modules/
+
+#all csv result
+*.csv
