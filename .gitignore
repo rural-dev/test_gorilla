@@ -14,3 +14,7 @@ puppeteer/node_modules/
 
 #all csv result
 *.csv
+
+#mac
+*.DS_Store
+
